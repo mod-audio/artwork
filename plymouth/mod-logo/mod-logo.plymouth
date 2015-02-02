@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=MOD-Logo
+Description=A theme that features a black background with the MOD logo.
+ModuleName=script
+
+[script]
+ImageDir=/lib/plymouth/themes/mod-logo
+ScriptFile=/lib/plymouth/themes/mod-logo/mod-logo.script

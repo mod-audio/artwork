@@ -1,0 +1,13 @@
+Files need to be copied manually in order to work.
+
+# Plymouth theme
+plymouth/* /lib/plymouth/themes/
+
+# Wallpaper (KDE)
+wallpapers/MOD-Logo /usr/share/wallpapers/
+
+# Wallpaper (Gnome)
+wallpapers/mod-wallpapers.xml /usr/share/gnome-background-properties/
+
+# Wallpaper (XFCE)
+wallpapers/MOD-Logo/contents/images/2881x1801.jpg /usr/share/xfce4/backdrops/background-mod-retina.jpg
